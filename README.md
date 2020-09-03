@@ -1,4 +1,4 @@
-# Spinning-wheels
+# Spinning-wheel
 The spinning wheel 🎡
 
 You can make the spinning wheel with the setting of clip-path.
